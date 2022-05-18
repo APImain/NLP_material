@@ -1,2 +1,2 @@
-# NLP_material
-This is a collection of NLP work that I have done over the last year.
+# projects
+This is a collection of NLP work and other projects that I have worked on over the last year.
